@@ -35,7 +35,7 @@ Features:
 - Feature 1
 - Feature 2
 
-![IMAGE](./data/screenshot/Image.png)
+![IMAGE](./data/img/RSA.png)
 
 
 ## 4. Example
